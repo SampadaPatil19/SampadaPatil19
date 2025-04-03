@@ -10,3 +10,14 @@ Passionate about building scalable web applications with clean and efficient cod
 - **Tools & Platforms:** Git, GitHub, Firebase, REST APIs  
 
 ## 🏆 Featured Projects  
+
+
+
+
+
+
+
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
