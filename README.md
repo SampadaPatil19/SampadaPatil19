@@ -38,6 +38,35 @@ This project replicates key social media functionalities like user authenticatio
 
 ---
 
+# 🤖 Ziva - Virtual AI Assistant
+
+Ziva is an intelligent and versatile virtual AI assistant built with **Python**. Ziva can perform a range of tasks including opening websites, providing real-time weather updates, telling jokes, fetching information, and reporting the current time and date—all through a lightweight, interactive interface.
+This project demonstrates how various Python libraries and APIs can be integrated to create an extensible desktop assistant that is both functional and fun.
+
+---
+
+## ✨ Features
+- 🌐 **Open Websites**  
+- ⛅ **Weather Prediction**  
+- 🕒 **Current Time & Date**  
+- 🧠 **Wikipedia Search**  
+- 😂 **Joke Generator**  
+- 🎙️ **Voice Feedback**  
+- ⚙️ **Customizable Actions**
+  
+ ---
+
+## 💡 Project Goals
+
+- Improve desktop productivity with a local assistant
+- Explore integration of Python’s standard libraries and APIs
+- Create an intuitive and user-friendly interface for everyday tasks
+- Lay the foundation for a more advanced personal AI agent
+
+---
+
+🔗 [GitHub](https://github.com/SampadaPatil19)
+
 
 
 
