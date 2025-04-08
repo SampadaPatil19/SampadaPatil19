@@ -18,7 +18,6 @@ It allows job seekers to browse and apply for jobs, while employers can post job
 **Tech Stack:**  
 `ReactJS` • `Vite` • `JavaScript` • `Tailwind CSS` • `Firebase (Auth & Firestore)` • `React Router`
 
-📌 **Live Demo (optional)** – *Coming soon / Hosted on Firebase / GitHub Pages*  
 📁 **Repo:** [react-job-portal](https://github.com/SampadaPatil19/react-job-portal.git)
 
 
