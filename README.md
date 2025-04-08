@@ -29,14 +29,6 @@ A modern, responsive **Instagram Clone** built using **ReactJS**, **JavaScript**
 
 This project replicates key social media functionalities like user authentication, real-time data updates, image posting, and interactive UI—all while maintaining clean architecture and efficient state management. Designed as a portfolio piece and learning milestone, this clone demonstrates practical use of frontend technologies along with backend-as-a-service integration.
 
-#### 🧠 Highlights:
-- ✨ Clean, component-based architecture using **ReactJS**
-- 🔐 Secure user authentication with **Firebase Auth**
-- 🖼️ Image upload & hosting via **Firebase Storage**
-- 💬 Real-time comments & data with **Firestore**
-- 📱 Fully responsive layout, optimized for mobile
-- 🧭 Global state management with **Redux**
-
 #### 💼 Tech Stack:
 `ReactJS` • `JavaScript` • `Redux` • `Firebase` • `CSS`
 
