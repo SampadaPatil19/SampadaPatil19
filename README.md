@@ -158,9 +158,17 @@ Collaborated in designing software solutions for real-world challenges.
 
 # 📜 Certifications
 
-✅ Python Full Stack Development (AIDS)
+### 🐍 Python & Backend
+- Python Full Stack Development (AIDS) — FirstBit Solutions
+- Python Programming from Scratch
 
-FirstBit Solutions
+### 🗄️ Database
+- SQL (Intermediate) Skill Certification — HackerRank
+- Advanced SQL Topics — Meta
+
+### 📊 Data Analytics
+- Data Visualisation: Empowering Business with Effective Insights
+- Excel and Copilot Fundamentals — Microsoft
 
 ---
 
@@ -177,8 +185,8 @@ FirstBit Solutions
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn
-- 📧 Email
+- 💼 [www.linkedin.com/in/sampada-patil-96715822b](url)
+- 📧 [patilsampada580@gmail.com](url)
 - 🌐 Portfolio (Coming Soon)
 
 ---
