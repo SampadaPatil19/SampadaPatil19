@@ -1,69 +1,186 @@
-# 👋 Hi, I'm Sampada Patil
+# Hi there 👋 I'm Sampada Patil
 
-🚀 **Frontend Developer | Python Django Web Developer**  
-Passionate about building scalable web applications with clean and efficient code. I specialize in creating responsive user interfaces and robust backend solutions using modern technologies.  
+### Python Django Developer | Backend Developer | Data Analytics Enthusiast
 
-## 🔥 Tech Stack  
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS, Bootstrap  
-- **Backend:** Python, Django, Django Rest Framework (DRF)  
-- **Databases:** PostgreSQL, MySQL  
-- **Tools & Platforms:** Git, GitHub, Firebase, REST APIs  
-
-## 🏆 Featured Projects  
----
-
-### 🔹 [React Job Portal](https://github.com/SampadaPatil19/react-job-portal.git)
-A modern and responsive Job Portal web application built using **ReactJS (Vite)** and **Firebase**.  
-It allows job seekers to browse and apply for jobs, while employers can post job listings in real time.
-
-**Tech Stack:**  
-`ReactJS` • `Vite` • `JavaScript` • `Tailwind CSS` • `Firebase (Auth & Firestore)` • `React Router`
-
-📁 **Repo:** [react-job-portal](https://github.com/SampadaPatil19/react-job-portal.git)
-
-
----
-### 📸 [Instagram Clone](https://github.com/SampadaPatil19/instagramClone)
-
-A modern, responsive **Instagram Clone** built using **ReactJS**, **JavaScript**, **Redux**, and **Firebase**.
-
-This project replicates key social media functionalities like user authentication, real-time data updates, image posting, and interactive UI—all while maintaining clean architecture and efficient state management. Designed as a portfolio piece and learning milestone, this clone demonstrates practical use of frontend technologies along with backend-as-a-service integration.
-
-#### 💼 Tech Stack:
-`ReactJS` • `JavaScript` • `Redux` • `Firebase` • `CSS`
-
-> 👩‍💻 Built with attention to detail, UI/UX, and real-world feature simulation.
-
-🔗 **[View Repository](https://github.com/SampadaPatil19/instagramClone)**  
+Computer Science graduate passionate about building scalable backend applications, REST APIs, and data-driven solutions. I enjoy solving real-world problems using Python, Django, SQL, and modern development tools while continuously exploring AI and Machine Learning.
 
 ---
 
-# 🤖 Ziva - Virtual AI Assistant
+## 👩‍💻 About Me
 
-Ziva is an intelligent and versatile virtual AI assistant built with **Python**. Ziva can perform a range of tasks including opening websites, providing real-time weather updates, telling jokes, fetching information, and reporting the current time and date—all through a lightweight, interactive interface.
-This project demonstrates how various Python libraries and APIs can be integrated to create an extensible desktop assistant that is both functional and fun.
-
-
-## 💡 Project Goals
-
-- Improve desktop productivity with a local assistant
-- Explore integration of Python’s standard libraries and APIs
-- Create an intuitive and user-friendly interface for everyday tasks
-- Lay the foundation for a more advanced personal AI agent
+- 🎓 B.E. Computer Science & Engineering (2025)
+- 💻 Backend Developer specializing in Python & Django
+- 📊 Interested in Data Analytics, AI and Backend Engineering
+- 🌱 Currently learning ASP.NET MVC and advanced backend development
+- 🤝 Open to Software Developer, Python Developer, Django Developer and Data Analyst opportunities
 
 ---
 
-🔗 [GitHub](https://github.com/SampadaPatil19)
+## 🚀 Tech Stack
 
+### Languages
+Python • SQL • JavaScript • C# • HTML • CSS
 
+### Backend
+Django • Django REST Framework • Flask • ASP.NET MVC • ADO.NET • Entity Framework
 
+### Frontend
+React.js • Bootstrap • Tailwind CSS • HTML5 • CSS3
 
+### Databases
+MySQL • PostgreSQL • SQLite • SQL Server
 
+### Data Analytics
+Power BI • Pandas • NumPy • Excel
 
+### Tools
+Git • GitHub • Docker • Postman • VS Code • JIRA
 
+---
 
+# 💼 Internship Experience
 
+### Application Development Intern
+**NexaNova ProTech**
+*Nov 2025 – Apr 2026*
 
+- Debugged and enhanced application modules.
+- Worked in Agile development environment.
+- Collaborated with developers for feature implementation and issue resolution.
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+---
 
+### Web Development Intern
+**PHN Technology**
+*Mar 2023 – May 2023*
+
+- Developed reusable React components.
+- Integrated REST APIs.
+- Worked with React, Django and MySQL.
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 AI Document Q&A System
+
+**Python • Flask • LangChain • FAISS • HuggingFace**
+
+- Built a Retrieval-Augmented Generation (RAG) application.
+- Implemented semantic search on 1000+ document chunks.
+- Developed backend APIs for document upload and querying.
+
+---
+
+## 🎓 Student Management System
+
+**Django REST Framework • MySQL • JWT**
+
+- REST API with CRUD operations
+- JWT Authentication
+- Pagination
+- Search & Filtering
+- Role-based Authorization
+
+---
+
+## 📊 Zepto Data Analysis
+
+**SQL • Python • Power BI**
+
+- Analyzed 10,000+ product records
+- Developed SQL queries for business insights
+- Created interactive Power BI dashboards
+
+---
+
+## 📈 Retail Sales Data Analysis
+
+**SQL • Python • Power BI**
+
+- Cleaned and analyzed sales datasets
+- Built interactive dashboards
+- Identified trends and profit insights
+
+---
+
+## 🏦 Bank Management System
+
+**ASP.NET MVC • SQL Server**
+
+- Banking application with Customer & Employee modules
+- Role-based authentication
+- Money transfer functionality
+- CRUD operations
+
+---
+
+## 🏨 Hotel Management System
+
+**ASP.NET Web Forms • SQL Server**
+
+- Hotel booking platform
+- Guest registration
+- Room management
+- Admin dashboard
+
+---
+
+## 📱 React Job Portal
+
+React • Firebase • Tailwind CSS
+
+Job Portal with authentication, job listings and employer dashboard.
+
+---
+
+## 📷 Instagram Clone
+
+React • Redux • Firebase
+
+Responsive Instagram clone featuring authentication, image sharing and real-time updates.
+
+---
+
+# 🏆 Achievements
+
+🏅 Published Research Paper
+
+**Ticketless Entry System for Museum (SAFAR)**
+
+Published in IJIRT (Vol.11 Issue 8)
+
+🏅 Smart India Hackathon (SIH) 2023 Participant
+
+Collaborated in designing software solutions for real-world challenges.
+
+---
+
+# 📜 Certifications
+
+✅ Python Full Stack Development (AIDS)
+
+FirstBit Solutions
+
+---
+
+# 🎯 Currently Exploring
+
+- Artificial Intelligence
+- Machine Learning
+- ASP.NET MVC
+- Clean Architecture
+- Docker
+- System Design
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn
+- 📧 Email
+- 🌐 Portfolio (Coming Soon)
+
+---
+
+*"Code. Learn. Build. Repeat."*
